@@ -10,7 +10,7 @@ Requires:
 * Biopython >= 1.74
 * Jupyter Notebook >= 6.0.1
 * ncbi-blast+ >= 2.2.31.4
-
+* vsearch >= 2.15.1
 
 # Pipeline
 Download `blastRefDatabase.ipynb` and open it using Jupyter Notebook. The program performs the pipeline as described below.
